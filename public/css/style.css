@@ -1,0 +1,73 @@
+
+h2 {
+    
+    color: black;
+    font-size:28px;
+    border-radius: 10px;
+}
+.header1 {
+    width: 100%;
+    height: 60px;
+    position: fixed;
+    top: 0;
+    left:0;
+    background-color: rgb(28, 28, 52);
+    opacity: .7;
+}
+.header1 a {
+    display: inline-block;
+    text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 20px 30px;
+}
+.hedt1 {
+    background-color: rgb(4, 41, 41);
+    color: rgb(231, 216, 216);
+    margin-top: 75px;
+    text-align: center;
+}
+
+
+
+.body {
+
+    background-image: url(../Images/Learn-about-Weather.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.body p {
+
+    background-color: black;
+    color: #b28585;
+    font-size: 30px;
+    border-radius: 15px;
+    padding: 15px;
+    display: none;
+    
+}
+
+
+.body input {
+
+    font-size: 20px;
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+}
+
+
+#welcome {
+
+    display: block;
+}
+
+.body button {
+    background-color: rgb(156, 2, 2);
+    color: #786f6f;
+    font-size: 16px;
+    width: 140px;
+    height: 35px;
+    border-radius: 5px;
+}
